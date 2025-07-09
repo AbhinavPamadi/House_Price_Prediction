@@ -65,8 +65,8 @@ The dataset used is `Bengaluru_House_Data.csv`, which contains the following fea
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/bengaluru-house-price-prediction.git
-cd bengaluru-house-price-prediction
+git clone https://github.com/AbhinavPamadi/House_Price_Prediction.git
+cd House_Price_Prediction
 ```
 
 2.Install Dependencies:
